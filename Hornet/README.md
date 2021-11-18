@@ -49,3 +49,5 @@ PLA
 
 Notes:
 Supports everywhere with 55 degree overhand threshold
+
+![alt text](hornet_rendered_stl.png?raw=true)
